@@ -5,5 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html'
 })
 export class AppComponent {
-  title = 'jedi-academy';
+  luke = {name: 'Luke', isJedi: true, temple: 'Coruscant'};
+  leia = {name: 'Leia', isJedi: true};
+  han = {name: 'Han solo', isJedi: true};
 }
