@@ -18,3 +18,6 @@
 ## 4. Programação Reativa:
 	- Um evento acontece e os que estão interessados são notificados e reagem a ele:
 		- Bliblioteca: RXJS.
+		
+		https://imasters.com.br/back-end/crud-com-hibernate-e-spring-framework
+		https://www.caelum.com.br/apostila-java-web/uma-introducao-pratica-ao-jpa-com-hibernate/#mapeando-uma-classe-tarefa-para-nosso-banco-de-dados
