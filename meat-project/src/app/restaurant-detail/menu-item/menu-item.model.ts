@@ -4,4 +4,5 @@ export interface MenuItem {
     description: string;
     price: number;
     imagePath: string;
+    // tslint:disable-next-line:eofline
 }
